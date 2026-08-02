@@ -10,23 +10,23 @@ Welcome to the Machine-Learning-2.0 repository! This project is my journey to re
 ## Repository Contents
 ### Data Preprocessing
 1. Handling missing data
-> Data transformations
-> Feature scaling and encoding
-> Dealing with outliers and imbalanced datasets
+* Data transformations
+* Feature scaling and encoding
+* Dealing with outliers and imbalanced datasets
 
 2. Feature Engineering
-> Feature construction and selection
-> Dimensionality reduction techniques (e.g., PCA)
-> Advanced transformations and feature interactions
+* Feature construction and selection
+* Dimensionality reduction techniques (e.g., PCA)
+* Advanced transformations and feature interactions
 
 3. Core Machine Learning Algorithms
-> Supervised Learning
+** Supervised Learning
 * Linear Regression (Simple, Multiple, Ridge, Lasso, ElasticNet)
 * Logistic Regression
 * Decision Trees
 * Ensemble Methods (Random Forest, AdaBoost, Gradient Boosting)
 
-> Unsupervised Learning
+** Unsupervised Learning
 * Clustering (K-Means, Hierarchical Clustering)
 * Anomaly Detection
 * Semi-Supervised and Reinforcement Learning (as extensions)
