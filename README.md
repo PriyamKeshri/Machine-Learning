@@ -20,13 +20,13 @@ Welcome to the Machine-Learning-2.0 repository! This project is my journey to re
 * Advanced transformations and feature interactions
 
 3. Core Machine Learning Algorithms
-** Supervised Learning
+**Supervised Learning**
 * Linear Regression (Simple, Multiple, Ridge, Lasso, ElasticNet)
 * Logistic Regression
 * Decision Trees
 * Ensemble Methods (Random Forest, AdaBoost, Gradient Boosting)
 
-** Unsupervised Learning
+**Unsupervised Learning**
 * Clustering (K-Means, Hierarchical Clustering)
 * Anomaly Detection
 * Semi-Supervised and Reinforcement Learning (as extensions)
