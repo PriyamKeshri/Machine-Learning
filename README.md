@@ -45,3 +45,11 @@ Welcome to the Machine-Learning-2.0 repository! This project is my journey to re
 * End-to-end ML pipelines
 * Real-world datasets and case studies
 * Advanced ML model deployment
+
+## Tools and Frameworks
+* Python: Primary language for implementation
+* Libraries: NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
+* Development Tools: Jupyter Notebook, VS Code
+
+Feel free to connect with me for collaboration or feedback. Let's dive deep into the fascinating world of Machine Learning together!
+
