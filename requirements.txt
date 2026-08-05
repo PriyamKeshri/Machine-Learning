@@ -2,6 +2,8 @@ numpy
 pandas
 matplotlib
 scikit-learn 
+jupyter
+ydata-processing
 requests
 beautifulsoup4
 lxml
